@@ -1,0 +1,13 @@
+Calculadora.sh
+	É o responsável por iniciar o Programa.
+	ele executa o código "sudo apt install python3" para garantir que o programa funcione corretamente
+	e também executa o chmod para garantir a permissão
+	em seguida executa o Arquivo "Atividade.py" onde o código da Calculadora ta
+
+Atividade.py
+	Ele usa o "print" para criar um menu para o usuário
+	a seguir usa o "if" e o "elif" para verifica a resposta do usuário
+	em base nisso ele faz a operação e retorna para o usuário
+
+	o valor da operação fica salvo em uma variável para prosseguir com mais operação
+ 
